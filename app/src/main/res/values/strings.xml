@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="hello">Hello!</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="empty_fields">Please fill all the Fields…!!!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_heading">Title:-</string>
+    <string name="description_heading">Description:-</string>
+    <string name="about">About</string>
+    <string name="about_text">
+        This is an app that do something, go figure it out yourself.
+    </string>
+    <string name="click_to_view_details">Click To View Details</string>
+    <string name="close">Close</string>
+</resources>
